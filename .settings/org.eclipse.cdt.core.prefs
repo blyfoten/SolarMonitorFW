@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1617333229/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1617333229/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1617333229/PATH/value=D\:\\Programs\\STM\\gcc-arm-none-eabi-4_9-141220\\bin;D\:\\Programs\\STM\\gcc-arm-none-eabi-4_9-141220;D\:\\app\\forslunc\\product\\11.2.0\\client_1\\bin;C\:\\Program Files\\MKS\\IntegrityClient\\bin;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\MATLAB\\R2011b\\bin;C\:\\MATLAB\\R2008b\\bin\\win32;C\:\\MATLAB\\R2008b\\bin;C\:\\MATLAB\\R2007b\\bin;C\:\\MATLAB\\R2007b\\bin\\win32;C\:\\PROGRA~1\\MKS\\Toolkit\\mksnt;C\:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin\\;C\:\\dSPACE RCPHIL 7.3\\Common\\Bin;C\:\\dSPACE RCPHIL 7.3\\Exe;C\:\\dSPACE RCPHIL 7.3\\ControlDesk\\Bin;C\:\\Program Files\\SlikSvn\\bin;D\:\\Coreutils\\bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1617333229/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1617333229/appendContributed=true
